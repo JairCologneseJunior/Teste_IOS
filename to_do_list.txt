@@ -1,0 +1,5 @@
+TUDO 01: Criar minha pagina n internet
+TUDO 02: registrar um dominio  .com.br para ospedar um site
+TUDO 03: Estudar html
+TUDO 04: Estudar css
+TUDO05: Estudar javaScript
